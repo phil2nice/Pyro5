@@ -20,6 +20,7 @@ in your site. Non-browser clients that access the http api have no problems.
 See the `http` example for two of such clients (node.js and python).
 
 Pyro - Python Remote Objects.  Copyright by Irmen de Jong (irmen@razorvine.net).
+
 """
 
 import sys
